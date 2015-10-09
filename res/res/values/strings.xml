@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">PleiadViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnValidConnexion">OK</string>
+    <string name="txtTitleConnectPage">Connexion Pleiad</string>
+    <string name="txtEtatConnexion">Non Connecté </string>
+    <string name="menuTab">Cours</string>
+    <string name="MsgText">New Text</string>
+    <string name="txtMessageEcranMenuPrincipal"></string>
+    <string name="txtInfo"> </string>
+    <string name="txtInfoMenuDivers">
+
+        Pour contacter le developpeur :
+
+    </string>
+    <string name="mainMenu_name">Menu_principal_name</string>
+    <string name="txtMenuExamen"> Le fichier sera traité par le navigateur</string>
+    <string name="titreTabCours">COURS</string>
+    <string name="titreTabExamen">EXAMEN</string>
+    <string name="titreTabDivers">DIVERS</string>
+    <string name="titreTabCoursDetail">DIVERS</string>
+    <string name="txtInfoComp"> </string>
+    <string name="libDetailsCours"> </string>
+    <string name="contentDetailCours"> </string>
+    <string name="btnDownloadPlanningExamen">Planning</string>
+    <string name="btnDownloadResultatExamen">Résultat</string>
+    <string name="btnDownloadPlanningCours">Planning</string>
+    <string name="txtLibRessourceResultat"> -------------------</string>
+    <string name="txtIntituleRessourcePlanning">Ressources disponibles </string>
+    <string name="txtResumeListCour"></string>
+    <string name="txtlistCour"></string>
+    <string name="textLoading">Chargement ....</string>
+    <string name="btnRetourCours"></string>
+    <string name="swcLogOff">Online</string>
+    <string name="lblTab"> </string>
+    <string name="yes"> Oui</string>
+    <string name="no"> Non </string>
+    <string name="lib_Login">Login</string>
+    <string name="lib_Mdp">Mot de passe</string>
+    <string name="btnQuitter">Quitter</string>
+    <string name="btnContactDev">Email</string>
+    <string name="btnParcourir">Parcourir</string>
+    <string name="validBtnParcourir">OK</string>
+    <string name="titleMenuPrincipal">Pleiad Mini</string>
+
+
+</resources>
