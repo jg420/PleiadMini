@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidDomInspection -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fr.product.greg.pleiadmini" >
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application
+
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/CustomTheme">
+
+        <activity
+            android:name=".EcranConnection"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MenuPrincipal"
+            android:label="@string/mainMenu_name" >
+        </activity>
+        <activity
+            android:name=".MenuCours"
+            android:label="@string/titreTabCours" >
+        </activity>
+        <activity
+            android:name=".MenuExamen"
+            android:label="@string/titreTabExamen" >
+        </activity>
+        <activity
+            android:name=".MenuDivers"
+            android:label="@string/titreTabDivers" >
+        </activity>
+        <activity
+            android:name=".PageChargement"
+            android:label="Page de chargement" >
+        </activity>
+        <activity
+            android:name=".FileChooser"
+            android:label="Parcourir" >
+        </activity>
+        <activity
+            android:name=".EcranParcourir"
+            android:label="Parcourir" >
+        </activity>
+        <!--suppress AndroidDomInspection -->
+
+    </application>
+
+</manifest>

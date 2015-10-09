@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="buttonValidLogin"></attr>
+    <attr name="buttonQuitApplication"></attr>
+    <attr name="buttonDownloadPlanningCours"></attr>
+    <attr name="buttonDownloadResultatExamen"></attr>
+    <attr name="buttonDownloadPlanningExamen"></attr>
+    <attr name="buttonContactDev"></attr>
+    <attr name="buttonRetour"></attr>
+
+    <attr name="textTitlePageConnexion"></attr>
+    <attr name="textTitlePageMenuPrincipal"></attr>
+    <attr name="textLibLoginMenuConnexion"></attr>
+    <attr name="textLibMdpMenuConnexion"></attr>
+    <attr name="textLibRessourcePlanning"></attr>
+    <attr name="textInfoConnexionMenuConnexion"></attr>
+    <attr name="textInfoTelechargementMenuExamen"></attr>
+    <attr name="textInfoCoursMenuCour"></attr>
+    <attr name="textChargement"></attr>
+    <attr name="textInfoMenuDivers"></attr>
+    <attr name="textLibRessourcePlanningMenuExamen"></attr>
+    <attr name="textLibRessourceExamenMenuExamen"></attr>
+
+    <attr name="editTextLogin"></attr>
+    <attr name="editTextMdp"></attr>
+
+    <attr name="linearLayoutMenu"></attr>
+    <attr name="linearLayoutMenuCours"></attr>
+    <attr name="linearLayoutMenuCoursDetail"></attr>
+    <attr name="linearLayoutMenuDivers"></attr>
+    <attr name="linearLayoutMenuExamen"></attr>
+    <attr name="linearLayoutConnexion"></attr>
+
+    <attr name="switchOnline"></attr>
+
+    <attr name="listViewSeance"></attr>
+    <attr name="listViewSeances"></attr>
+
+    <attr name="expandableListViewDetailCours"></attr>
+    <attr name="textDetailListSeance"></attr>
+    <attr name="tabWidgetMenu"></attr>
+    <attr name="tableLayout_MenuExamen"></attr>
+
+
+
+
+
+
+
+
+</resources>
